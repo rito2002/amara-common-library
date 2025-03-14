@@ -1,0 +1,7 @@
+/mnt/c/Users/Tobias/Projects/Amara/public-repository/amara-common-library/src/main/java/com/amara/config/MessageConfig.java
+/mnt/c/Users/Tobias/Projects/Amara/public-repository/amara-common-library/src/main/java/com/amara/exception/ApiErrorResponse.java
+/mnt/c/Users/Tobias/Projects/Amara/public-repository/amara-common-library/src/main/java/com/amara/exception/BusinessException.java
+/mnt/c/Users/Tobias/Projects/Amara/public-repository/amara-common-library/src/main/java/com/amara/exception/ErrorCode.java
+/mnt/c/Users/Tobias/Projects/Amara/public-repository/amara-common-library/src/main/java/com/amara/exception/ExternalServiceException.java
+/mnt/c/Users/Tobias/Projects/Amara/public-repository/amara-common-library/src/main/java/com/amara/exception/GlobalExceptionHandler.java
+/mnt/c/Users/Tobias/Projects/Amara/public-repository/amara-common-library/src/main/java/com/amara/exception/TechnicalException.java

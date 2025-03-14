@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-14T13:11:24 CET" name="Surefire suite" finished-at="2025-03-14T13:11:24 CET" duration-ms="150">
+    <groups>
+    </groups>
+    <test started-at="2025-03-14T13:11:24 CET" name="Surefire test" finished-at="2025-03-14T13:11:24 CET" duration-ms="150">
+      <class name="com.amara.exception.GlobalExceptionHandlerTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amara.exception.GlobalExceptionHandlerTest@1139b2f3]" started-at="2025-03-14T13:11:24 CET" name="setUp" finished-at="2025-03-14T13:11:24 CET" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHandleBusinessExceptionEnglish()[pri:0, instance:com.amara.exception.GlobalExceptionHandlerTest@1139b2f3]" started-at="2025-03-14T13:11:24 CET" name="testHandleBusinessExceptionEnglish" finished-at="2025-03-14T13:11:24 CET" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHandleBusinessExceptionEnglish -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amara.exception.GlobalExceptionHandlerTest@1139b2f3]" started-at="2025-03-14T13:11:24 CET" name="setUp" finished-at="2025-03-14T13:11:24 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHandleBusinessExceptionGerman()[pri:0, instance:com.amara.exception.GlobalExceptionHandlerTest@1139b2f3]" started-at="2025-03-14T13:11:24 CET" name="testHandleBusinessExceptionGerman" finished-at="2025-03-14T13:11:24 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHandleBusinessExceptionGerman -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amara.exception.GlobalExceptionHandlerTest@1139b2f3]" started-at="2025-03-14T13:11:24 CET" name="setUp" finished-at="2025-03-14T13:11:24 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHandleExternalServiceExceptionEnglish()[pri:0, instance:com.amara.exception.GlobalExceptionHandlerTest@1139b2f3]" started-at="2025-03-14T13:11:24 CET" name="testHandleExternalServiceExceptionEnglish" finished-at="2025-03-14T13:11:24 CET" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHandleExternalServiceExceptionEnglish -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amara.exception.GlobalExceptionHandlerTest@1139b2f3]" started-at="2025-03-14T13:11:24 CET" name="setUp" finished-at="2025-03-14T13:11:24 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHandleExternalServiceExceptionGerman()[pri:0, instance:com.amara.exception.GlobalExceptionHandlerTest@1139b2f3]" started-at="2025-03-14T13:11:24 CET" name="testHandleExternalServiceExceptionGerman" finished-at="2025-03-14T13:11:24 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHandleExternalServiceExceptionGerman -->
+        <test-method signature="testHandleGenericExceptionEnglish()[pri:0, instance:com.amara.exception.GlobalExceptionHandlerTest@1139b2f3]" started-at="2025-03-14T13:11:24 CET" name="testHandleGenericExceptionEnglish" finished-at="2025-03-14T13:11:24 CET" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHandleGenericExceptionEnglish -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amara.exception.GlobalExceptionHandlerTest@1139b2f3]" started-at="2025-03-14T13:11:24 CET" name="setUp" finished-at="2025-03-14T13:11:24 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHandleGenericExceptionGerman()[pri:0, instance:com.amara.exception.GlobalExceptionHandlerTest@1139b2f3]" started-at="2025-03-14T13:11:24 CET" name="testHandleGenericExceptionGerman" finished-at="2025-03-14T13:11:24 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHandleGenericExceptionGerman -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amara.exception.GlobalExceptionHandlerTest@1139b2f3]" started-at="2025-03-14T13:11:24 CET" name="setUp" finished-at="2025-03-14T13:11:24 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amara.exception.GlobalExceptionHandlerTest@1139b2f3]" started-at="2025-03-14T13:11:24 CET" name="setUp" finished-at="2025-03-14T13:11:24 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testHandleTechnicalExceptionEnglish()[pri:0, instance:com.amara.exception.GlobalExceptionHandlerTest@1139b2f3]" started-at="2025-03-14T13:11:24 CET" name="testHandleTechnicalExceptionEnglish" finished-at="2025-03-14T13:11:24 CET" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHandleTechnicalExceptionEnglish -->
+        <test-method signature="testHandleTechnicalExceptionGerman()[pri:0, instance:com.amara.exception.GlobalExceptionHandlerTest@1139b2f3]" started-at="2025-03-14T13:11:24 CET" name="testHandleTechnicalExceptionGerman" finished-at="2025-03-14T13:11:24 CET" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testHandleTechnicalExceptionGerman -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.amara.exception.GlobalExceptionHandlerTest@1139b2f3]" started-at="2025-03-14T13:11:24 CET" name="setUp" finished-at="2025-03-14T13:11:24 CET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+      </class> <!-- com.amara.exception.GlobalExceptionHandlerTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
